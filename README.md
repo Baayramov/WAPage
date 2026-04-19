@@ -5,7 +5,7 @@ What separates this program from other readers is that it works with C++ in a ne
 ### Download WAPage Release via PowerShell
 
 **1. Quick Download (Ready-to-use App):** To download the latest compiled release directly, use Windows PowerShell: <br>
-<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage.zip" -OutFile "WAPage.zip"</code></pre> <br>
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre> <br>
 
 ### Features
 
