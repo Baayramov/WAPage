@@ -1,0 +1,64 @@
+Copyright (c) 2026 Mahmud Bayramov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated source code (the "Software"), to use, run, and
+view the Software for personal or commercial purposes, subject to the following
+conditions:
+
+1. OPEN SOURCE
+   The source code of this Software is publicly available. You may read, study,
+   and learn from the source code.
+
+2. PERMITTED USE
+   You may use the compiled Software free of charge for any purpose, including
+   personal and commercial use.
+
+3. MODIFICATIONS FOR PERSONAL USE
+   You may modify the source code for your own personal use. Modified versions
+   must not be distributed publicly.
+
+4. RESTRICTIONS
+   The following are strictly prohibited without prior written permission from
+   the copyright holder:
+
+   a) Redistributing the original or modified source code as your own project,
+      whether publicly or privately.
+
+   b) Publishing, uploading, or sharing the source code or any substantial
+      portion of it on any platform (including but not limited to GitHub,
+      GitLab, Bitbucket, or similar) under a different name or as a new project.
+
+   c) Building and distributing compiled binaries derived from this source code.
+
+   d) Using the source code or any part of it in other projects, whether
+      open source or proprietary.
+
+5. ATTRIBUTION
+   Any reference to or mention of this Software must clearly credit the original
+   author: Mahmud Bayramov — https://github.com/Baayramov/WAPage
+
+6. DONATIONS
+   This Software is free to use. If you find it useful, you are welcome to
+   support the author voluntarily. Accepting donations does not constitute
+   a commercial transaction and does not transfer any rights to the donor.
+
+7. THIRD-PARTY COMPONENTS
+   This Software makes use of the following third-party components, each
+   governed by their own licenses:
+
+   - Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a>
+     Source: https://download.qt.io/archive/qt/6.7/6.7.3/
+
+   - FFmpeg 8.1 (lgpl build) — LGPL v2.1 or later — https://ffmpeg.org/legal.html
+     Source: https://github.com/BtbN/FFmpeg-Builds
+
+   - NotoColorEmoji — SIL Open Font License 1.1
+     Source: https://fonts.google.com/noto
+
+8. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
