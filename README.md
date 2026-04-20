@@ -71,9 +71,9 @@ If you find this project useful and would like to support me:
 
 ---
 
-This software is licensed under a custom proprietary license. See LICENSE for details.
-FFmpeg (LGPL v2.1 or later) is used for video/image/audio processing. <a>https://ffmpeg.org/legal.html</a>
-Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a>
-NotoColorEmoji font (OFL 1.1) — <a>https://fonts.google.com/noto</a>
+This software is licensed under a custom proprietary license. See LICENSE for details. <br>
+FFmpeg (LGPL v2.1 or later) is used for video/image/audio processing. <a>https://ffmpeg.org/legal.html</a> <br>
+Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a> <br>
+NotoColorEmoji font (OFL 1.1) — <a>https://fonts.google.com/noto</a> <br>
 
 *This project exists because WhatsApp, despite offering a chat export feature, provides no means to actually read the exported files officially. This application does exactly that.*
