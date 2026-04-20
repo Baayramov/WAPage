@@ -24,7 +24,7 @@ What separates this program from other readers is that it works with C++ in a ne
 - Fully offline — no internet connection is made at any point, all data remains on the user's own machine
 - Low resource usage, designed to run smoothly even on low-end hardware
 - Written up to <b>10.000+</b> code lines <br><br>
-**Source code will be shared soon**
+<b>Source code will be shared soon</b>
 <br>
 <b>Some sensitive texts/images were blurred in screenshots</b>
 <br>
