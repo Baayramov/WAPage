@@ -31,9 +31,8 @@ WhatsApp предоставляет функцию экспорта перепи
 <b>Некоторые конфиденциальные тексты/изображения были размыты на скриншотах</b>
 <br>
 <div align="center">
-  <img src="" />
-  <img src="" />
-  <img src="" />
+  <img src="https://i.imgur.com/TGiBuUQ.jpeg" />
+  <img src="https://i.imgur.com/1fiV3vC.jpeg" />
 </div>
 
 ### Языки интерфейса
