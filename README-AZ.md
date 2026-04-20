@@ -3,9 +3,15 @@
 WhatsApp söhbətlər üçün ixrac funksiyası təqdim edir, lakin onları sonradan oxumaq üçün heç bir rəsmi vasitə təklif etmir. Bu tətbiq bu boşluğu doldurmaq üçün yaradılıb. <br> WAPage ixrac edilmiş WhatsApp söhbət fayllarını təhlil edir və onları təmiz vizual interfeysdə göstərir. <br>
 Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe proqram formatında işləməsi, brauzerə ehtiyac duymaması və açıq mənbəli olmasıdır. <br>
 
-### PowerShell vasitəsilə WAPage Buraxılışını Yükləyin
+## Yükləmə
 
-**1. Tez Yükləmə (İstifadəyə Hazır Tətbiq):** Ən son tərtib edilmiş buraxılışı birbaşa yükləmək üçün Windows PowerShell-dən istifadə edin: <br>
+### 1. Son versiyanı birbaşa bu linkdən yükləyin
+
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip</a> <br>
+
+**2. Sağdakı releases panelindən yükləyin**
+
+**3. Windows PowerShell istifadə edərək yükləyin** <br>
 
 <pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre> <br>
 
