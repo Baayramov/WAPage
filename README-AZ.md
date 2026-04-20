@@ -15,6 +15,10 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 
 <pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre> <br>
 
+## VirusTotal Analiz Linki
+
+<a>https://www.virustotal.com/gui/file/74f96af939285c5ad1bb3c8600df1a1d2591c22722c40a97e0f0e1223f5f938f/detection</a>
+
 ### Xüsusiyyətlər
 
 - Məlum tətbiq vizual stilini yaxından əks etdirən interfeys dizaynı
