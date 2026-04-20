@@ -31,8 +31,8 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 <b>Bəzi həssas mətnlər/şəkillər ekran görüntülərində bulanıqlaşdırılıb</b>
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/ZaodYuh.jpeg" />
-  <img src="https://i.imgur.com/o2gDtQA.jpeg" />
+  <img src="https://i.imgur.com/Jkbjvb3.jpeg" />
+  <img src="https://i.imgur.com/sO71g5a.jpeg" />
 </div>
 
 ### İnterfeys Dilləri
