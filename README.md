@@ -31,9 +31,8 @@ What separates this program from other readers is that it works with C++ in a ne
 <b>Some sensitive texts/images were blurred in screenshots</b>
 <br>
 <div align="center">
-  <img src="" />
-  <img src="" />
-  <img src="" />
+  <img src="https://i.imgur.com/ZaodYuh.jpeg" />
+  <img src="https://i.imgur.com/o2gDtQA.jpeg" />
 </div>
 
 ### Interface Languages
