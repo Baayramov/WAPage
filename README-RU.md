@@ -9,7 +9,7 @@ WhatsApp предоставляет функцию экспорта перепи
 
 <a>https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip</a> <br>
 
-**2. Загрузите из вкладки «Релизы» справа**
+**2. Загрузите из вкладки releases справа**
 
 **3. Загрузите с помощью Windows PowerShell** <br>
 
