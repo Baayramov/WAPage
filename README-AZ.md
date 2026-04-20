@@ -24,8 +24,10 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 - Tamamilə oflayndır — heç bir nöqtədə internet bağlantısı yaradılmır, bütün məlumatlar istifadəçinin öz maşınında qalır
 - Aşağı səviyyəli aparatlarda belə rahat işləmək üçün hazırlanmış aşağı resurs istifadəsi
 - 10.000+ kod sətirinə qədər yazılıb <br><br>
+
+
 <b>Mənbə kodu tezliklə paylaşılacaq</b>
-<br>
+<br><br>
 <b>Bəzi həssas mətnlər/şəkillər ekran görüntülərində bulanıqlaşdırılıb</b>
 <br>
 <div align="center">
