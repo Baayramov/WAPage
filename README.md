@@ -5,13 +5,13 @@ What separates this program from other readers is that it works with C++ in a ne
 
 ### Downlaod
 
-### Download directly last release from this link
+### 1.Download directly last release from this link
 
 <a>https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip</a> <br>
 
-**Download from release tab on right**
+**2.Download from release tab on right**
 
-**Download using Windows PowerShell** <br>
+**3.Download using Windows PowerShell** <br>
 
 <pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre> <br>
 
