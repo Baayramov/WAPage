@@ -1,7 +1,7 @@
 # WAPage
 
 WhatsApp предоставляет функцию экспорта переписки, но не предлагает официального инструмента для последующего чтения. Это приложение было создано, чтобы восполнить этот пробел. <br> WAPage анализирует экспортированные файлы чатов WhatsApp и отображает их в удобном визуальном интерфейсе. <br>
-Что отличает эту программу от других программ для чтения, так это то, что она работает на C++ в новом формате .exe, не требует браузера и является открытым исходным кодом. <br>
+Что отличает эту программу от других программ для чтения, так это то, что она работает на C++ в новом формате .exe, не требует браузера и является открытым исходным кодом.
 
 ## Загрузка
 
@@ -13,7 +13,11 @@ WhatsApp предоставляет функцию экспорта перепи
 
 **3. Загрузите с помощью Windows PowerShell** <br>
 
-<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre> <br>
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre>
+
+## Ссылка на сканирование VirusTotal
+
+<a>https://www.virustotal.com/gui/file/74f96af939285c5ad1bb3c8600df1a1d2591c22722c40a97e0f0e1223f5f938f/detection</a>
 
 ### Особенности
 
