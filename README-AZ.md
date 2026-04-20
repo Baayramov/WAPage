@@ -37,7 +37,7 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 
 ### İnterfeys Dilləri
 
-Azərbaycan, Türk, İngilis, İspan, Portuqal, Rus, İtalyan, Ərəb, Fransız, Alman, Çin, Hind, Yapon, Koreya, Monqol, Polyak, Ukrayna, Özbək
+Azərbaycanca, Türkcə, İngiliscə, İspanca, İtalyanca, Almanca, Fransızca, Polyak, Portuqal, Rusça, Ukrayna, Monqol, Hind, Ərəbcə, Çincə, Yaponca, Koreya, Özbək
 
 ### Dəstəklənən İxrac Növləri
 
