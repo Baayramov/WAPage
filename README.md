@@ -3,8 +3,6 @@
 WhatsApp provides an export feature for conversations, but offers no official tool to read them afterward. This application was built to fill that gap. <br> WAPage parses exported WhatsApp chat files and renders them in a clean visual interface. <br>
 What separates this program from other readers is that it works with C++ in a new .exe program format, it does not need a browser and it's open source. <br>
 
----
-
 ## Downlaod
 
 ### 1.Download directly last release from this link
@@ -16,8 +14,6 @@ What separates this program from other readers is that it works with C++ in a ne
 **3.Download using Windows PowerShell** <br>
 
 <pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip" -OutFile "WAPage.zip"</code></pre> <br>
-
----
 
 ### Features
 
