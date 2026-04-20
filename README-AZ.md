@@ -72,9 +72,9 @@ Azərbaycan, Türk, İngilis, İspan, Portuqal, Rus, İtalyan, Ərəb, Fransız,
 
 ---
 
-Bu proqram təminatı xüsusi mülkiyyət lisenziyası altında lisenziyalaşdırılıb. Ətraflı məlumat üçün LICENSE faylına baxın.
-FFmpeg (LGPL v2.1 və ya daha yeni) video/şəkil/səs emalı üçün istifadə olunur. <a>https://ffmpeg.org/legal.html</a>
-Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a>
-NotoColorEmoji şrifti (OFL 1.1) — <a>https://fonts.google.com/noto</a>
+Bu proqram təminatı xüsusi mülkiyyət lisenziyası altında lisenziyalaşdırılıb. Ətraflı məlumat üçün LICENSE faylına baxın. <br>
+FFmpeg (LGPL v2.1 və ya daha yeni) video/şəkil/səs emalı üçün istifadə olunur. <a>https://ffmpeg.org/legal.html</a> <br>
+Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a> <br>
+NotoColorEmoji şrifti (OFL 1.1) — <a>https://fonts.google.com/noto</a> <br>
 
 *Bu layihə WhatsApp-ın söhbət ixracı xüsusiyyəti təklif etməsinə baxmayaraq, ixrac edilmiş faylları rəsmi olaraq oxumaq üçün heç bir vasitə təqdim etməməsi səbəbindən mövcuddur. Bu tətbiq məhz bunu edir.*
