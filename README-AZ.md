@@ -34,6 +34,7 @@ Mənbə kodu tezliklə paylaşılacaq
   <img src="" />
   <img src="" />
 </div>
+
 ### İnterfeys Dilləri
 
 Azərbaycan, Türk, İngilis, İspan, Portuqal, Rus, İtalyan, Ərəb, Fransız, Alman, Çin, Hind, Yapon, Koreya, Monqol, Polyak, Ukrayna, Özbək
