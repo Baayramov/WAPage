@@ -43,6 +43,8 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 <div align="center">
   <img src="https://i.imgur.com/Jkbjvb3.jpeg" />
   <img src="https://i.imgur.com/sO71g5a.jpeg" />
+  <img src="https://i.imgur.com/zm2PhyH.gif" />
+  <img src="https://i.imgur.com/y8Z1XUm.gif" />
 </div>
 
 ### İnterfeys Dilləri
