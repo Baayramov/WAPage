@@ -42,7 +42,7 @@ WhatsApp предоставляет функцию экспорта перепи
 <br>
 <div align="center">
   <img src="https://i.imgur.com/TGiBuUQ.jpeg" />
-  <img src="https://i.imgur.com/1fiV3vC.jpeg" />
+  <img src="https://i.imgur.com/U4AxkLb.jpeg" />
   <img src="https://i.imgur.com/W1HmR24.gif" />
   <img src="https://i.imgur.com/lITz85Q.gif" />
 </div>
