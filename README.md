@@ -43,6 +43,8 @@ What separates this program from other readers is that it works with C++ in a ne
 <div align="center">
   <img src="https://i.imgur.com/ZaodYuh.jpeg" />
   <img src="https://i.imgur.com/o2gDtQA.jpeg" />
+  <img src="https://i.imgur.com/bCbqE0K.gif" />
+  <img src="https://i.imgur.com/M7XUojW.gif" />
 </div>
 
 ### Interface Languages
