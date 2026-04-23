@@ -21,6 +21,7 @@ What separates this program from other readers is that it works with C++ in a ne
 
 ### Features
 
+- Supports both Android and iOS exports
 - Interface design that closely mirrors the known app visual style
 - Light and Dark theme options
 - Interface available in 18 languages — the interface language has no effect on the content inside chats
