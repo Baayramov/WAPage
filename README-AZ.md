@@ -21,6 +21,7 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 
 ### Xüsusiyyətlər
 
+- Həm Android, həm də iOS ixracını dəstəkləyir
 - Məlum tətbiq vizual stilini yaxından əks etdirən interfeys dizaynı
 - İşıq və Qaranlıq mövzu seçimləri
 - 18 dildə mövcud olan interfeys — interfeys dilinin söhbətlərdəki məzmuna heç bir təsiri yoxdur
