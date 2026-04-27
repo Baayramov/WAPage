@@ -7,7 +7,7 @@ What separates this program from other readers is that it works with C++ in a ne
 
 ### 1.Download directly last version from this link
 
-<a>https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip</a> <br>
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip</a> <br>
 
 **2.Download from release tab on right**
 
