@@ -7,7 +7,7 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe
 
 ### 1. Son versiyanı birbaşa bu linkdən yükləyin
 
-<a>https://github.com/Baayramov/WAPage/releases/download/v1.0.0/WAPage-v1.0.0.zip</a> <br>
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip</a> <br>
 
 **2. Sağdakı releases panelindən yükləyin**
 
