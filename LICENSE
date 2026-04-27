@@ -49,9 +49,6 @@ conditions:
    - Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a>
      Source: https://download.qt.io/archive/qt/6.7/6.7.3/
 
-   - FFmpeg 8.1 (lgpl build) — LGPL v2.1 or later — https://ffmpeg.org/legal.html
-     Source: https://github.com/BtbN/FFmpeg-Builds
-
    - NotoColorEmoji — SIL Open Font License 1.1
      Source: https://fonts.google.com/noto
 
