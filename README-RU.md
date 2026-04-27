@@ -17,7 +17,7 @@ WhatsApp предоставляет функцию экспорта перепи
 
 ## Ссылка на сканирование VirusTotal
 
-<a>https://www.virustotal.com/gui/file/74f96af939285c5ad1bb3c8600df1a1d2591c22722c40a97e0f0e1223f5f938f/detection</a>
+<a>https://www.virustotal.com/gui/file/feb07c061c6669e0780e38c3bca88fe29bdeb8fbdb8acabca16455d9488ded51/detection</a>
 
 ### Особенности
 
