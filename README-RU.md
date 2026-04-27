@@ -87,7 +87,6 @@ WhatsApp предоставляет функцию экспорта перепи
 ---
 
 Данное программное обеспечение распространяется по пользовательской проприетарной лицензии. Подробности см. в файле LICENSE. <br>
-Для обработки видео/изображений/аудио используется FFmpeg (LGPL v2.1 или более поздняя версия). <a>https://ffmpeg.org/legal.html</a> <br>
 Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a> <br>
 Шрифт NotoColorEmoji (OFL 1.1) — <a>https://fonts.google.com/noto</a> <br>
 
