@@ -1,4 +1,4 @@
-# WAPagea
+# WAPage
 
 WhatsApp söhbətlər üçün ixrac funksiyası təqdim edir, lakin onları sonradan oxumaq üçün heç bir rəsmi vasitə təklif etmir. Bu tətbiq bu boşluğu doldurmaq üçün yaradılıb. <br> WAPage ixrac edilmiş WhatsApp söhbət fayllarını təhlil edir və onları təmiz vizual interfeysdə göstərir. <br>
 Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə yeni .exe proqram formatında işləməsi, brauzerə ehtiyac duymaması və açıq mənbəli olmasıdır.
