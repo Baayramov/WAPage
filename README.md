@@ -49,7 +49,7 @@ What separates this program from other readers is that it works with C++ in a .e
 
 ### Interface Languages
 
-Azerbaijan, Turkish, English, Spanish, Italian, German, French, Polish, Portuguese, Russian, Ukrainian, Mongolian, Hindi, Arabic, Chinese, Japanese, Korean, Uzbek
+`Azerbaijan, Turkish, English, Spanish, Italian, German, French, Polish, Portuguese, Russian, Ukrainian, Mongolian, Hindi, Arabic, Chinese, Japanese, Korean, Uzbek`
 
 ### Supported Export Types
 
