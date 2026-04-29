@@ -94,7 +94,7 @@ To compile the project from the source code, please follow these steps carefully
 - It is highly recommended to set the build configuration to Release. The application requires specific DLLs to be present in the release folder for optimal performance. (You may select Debug for error-checking purposes, but note that this will result in noticeable performance degradation).
 - Click Configure Project and wait for the configuration process to finish.
 - Once the configuration is successfully completed, the Build button (the hammer icon in the bottom-left corner) will become active. Click it to start compiling.
-- After the build finishes successfully, a new `build` directory will be generated inside the project folder. Within this directory, navigate to the `MSVC` folder to find your fully compiled executable program.
+- After the build finishes successfully, a new `build` directory will be generated inside the project folder. Within this directory, navigate to the `Desktop_Qt_6_7_3_MSVC2022_64bit-Release` or `Desktop_Qt_6_7_3_MSVC2022_64bit-Debug` folder to find your fully compiled executable program.
 
 ### Future Plans
 
