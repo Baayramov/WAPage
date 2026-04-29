@@ -37,7 +37,6 @@ What separates this program from other readers is that it works with C++ in a .e
 - Written up to <b>10.000+</b> code lines <br><br>
 
 
-<b>Source code will be shared soon</b>
 <br><br>
 <b>Some sensitive texts/images were blurred in screenshots</b>
 <br>
@@ -69,6 +68,33 @@ Azerbaijan, Turkish, English, Spanish, Italian, German, French, Polish, Portugue
 | Windows 11 64-bit                         | Supported |
 | Linux                                     | Planned   |
 | macOS                                     | Planned   |
+
+### Build Instructions
+
+To compile the project from the source code, please follow these steps carefully to ensure all required dependencies are properly installed via the Qt Maintenance Tool.
+
+**1. Installing Required Qt Components**
+- Open the Qt Maintenance Tool. Navigate to the Customize section and ensure the Archive option is enabled from the Show filter menu in the top right corner.
+- Under Qt 6.7.3, select and install the following modules:
+  - MSVC 2022 64-bit
+  - Qt 5 Compatibility Module
+  - Qt Shader Tools
+- Under Qt 6.7.3 -> Additional Libraries, select and install:
+  - Qt Image Formats
+  - Qt Multimedia
+- Under Qt Development -> Build Tools, select and install:
+  - CMake 3.30.5
+  - Ninja 1.12.1
+- Under Qt Creator, select and install:
+  - Qt Creator 19.0.0
+
+**2. Building the Project**
+- Launch Qt Creator. Click on Open Project... and select the `CMakeLists.txt` file located in the source code directory.
+- In the Kit Selection screen, strictly choose Desktop Qt 6.7.3 MSVC2022 64-bit.
+- It is highly recommended to set the build configuration to Release. The application requires specific DLLs to be present in the release folder for optimal performance. (You may select Debug for error-checking purposes, but note that this will result in noticeable performance degradation).
+- Click Configure Project and wait for the configuration process to finish.
+- Once the configuration is successfully completed, the Build button (the hammer icon in the bottom-left corner) will become active. Click it to start compiling.
+- After the build finishes successfully, a new `build` directory will be generated inside the project folder. Within this directory, navigate to the `MSVC` folder to find your fully compiled executable program.
 
 ### Future Plans
 
