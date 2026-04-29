@@ -70,6 +70,34 @@ Azərbaycanca, Türkcə, İngiliscə, İspanca, İtalyanca, Almanca, Fransızca,
 | Linux                                       |  Planlaşdırılır  |
 | macOS                                       |  Planlaşdırılır  |
 
+### Kompilyasiya Təlimatları
+Layihəni mənbə kodundan kompilyasiya etmək üçün, bütün lazımi asılılıqların Qt Maintenance Tool vasitəsilə düzgün quraşdırıldığından əmin olmaq məqsədilə bu addımları izləyin.
+
+**1. Tələb Olunan Qt Komponentlərinin Quraşdırılması**
+
+- Qt Maintenance Tool-u açın. Customize bölməsinə keçin və yuxarı sağ küncdəki Show filtr menyusundan Archive seçiminin aktiv edildiyinə əmin olun.
+- Qt 6.7.3 bölməsi altında aşağıdakı modulları seçib quraşdırın:
+  - MSVC 2022 64-bit
+  - Qt 5 Compatibility Module
+  - Qt Shader Tools
+- Qt 6.7.3 -> Additional Libraries bölməsi altında seçib quraşdırın:
+  - Qt Image Formats
+  - Qt Multimedia
+- Qt Development -> Build Tools bölməsi altında seçib quraşdırın:
+  - CMake 3.30.5
+  - Ninja 1.12.1
+- Qt Creator bölməsi altında seçib quraşdırın:
+  - Qt Creator 19.0.0
+
+**2. Layihənin Kompilyasiyası**
+
+- Qt Creator-u başladın. Open Project... düyməsinə klikləyin və mənbə kodu qovluğunda yerləşən `CMakeLists.txt` faylını seçin.
+- Kit Selection ekranında mütləq Desktop Qt 6.7.3 MSVC2022 64-bit seçimini edin.
+- Build konfiqurasiyasını Release olaraq təyin etmək tövsiyə olunur. Optimal performans üçün tətbiqin release qovluğunda xüsusi DLL-lərin olması tələb edilir. (Xətaları yoxlamaq məqsədilə Debug da seçə bilərsiniz, lakin bu, proqramın performansında hiss ediləcək dərəcədə azalmalara səbəb olacaq).
+- Configure Project düyməsinə klikləyin və prosesin bitməsini gözləyin.
+- Konfiqurasiya uğurla başa çatdıqdan sonra sol alt küncdəki Build düyməsi (çəkic ikonu) aktiv olacaq. Kompilyasiyanı başlatmaq üçün həmin düyməyə klikləyin.
+- Build prosesi uğurla bitdikdən sonra layihə qovluğunun daxilində yeni `build` qovluğu yaranacaq. Tam kompilyasiya olunmuş icra edilə bilən proqramınızı tapmaq üçün həmin qovluğun içindəki `Desktop_Qt_6_7_3_MSVC2022_64bit-Release` və ya `Desktop_Qt_6_7_3_MSVC2022_64bit-Debug` qovluğuna daxil olun.
+
 ### Gələcək Planlar
 
 - Linux və macOS platforma dəstəyi
