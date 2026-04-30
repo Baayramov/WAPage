@@ -17,7 +17,7 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proq
 
 ## VirusTotal Analiz Linki
 
-<a>https://www.virustotal.com/gui/file/feb07c061c6669e0780e38c3bca88fe29bdeb8fbdb8acabca16455d9488ded51/detection</a>
+<a>https://www.virustotal.com/gui/file/66984402bbaff5c0cc3a26264832ade4eb9bb0befb5ebcfb16023ea221e19b18/detection</a>
 
 ### Xüsusiyyətlər
 
