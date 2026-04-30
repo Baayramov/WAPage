@@ -13,7 +13,7 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proq
 
 **3. Windows PowerShell istifadə edərək yükləyin** <br>
 
-<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip" -OutFile "WAPage-v1.2.0.zip"</code></pre>
 
 ## VirusTotal Analiz Linki
 
