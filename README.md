@@ -7,13 +7,13 @@ What separates this program from other readers is that it works with C++ in a .e
 
 ### 1.Download directly last version from this link
 
-<a>https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip</a> <br>
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip</a> <br>
 
 **2.Download from release tab on right**
 
 **3.Download using Windows PowerShell** <br>
 
-<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
 
 ## VirusTotal Scan Link
 
