@@ -7,13 +7,13 @@ WhatsApp предоставляет функцию экспорта перепи
 
 ### 1. Загрузите последнюю версию напрямую по этой ссылке:
 
-<a>https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip</a> <br>
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip</a> <br>
 
 **2. Загрузите из вкладки releases справа**
 
 **3. Загрузите с помощью Windows PowerShell** <br>
 
-<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
 
 ## Ссылка на сканирование VirusTotal
 
