@@ -37,7 +37,6 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proq
 - <b>12.000+</b> kod sətirinə qədər yazılıb <br><br>
 
 
-<b>Mənbə kodu tezliklə paylaşılacaq</b>
 <br><br>
 <b>Bəzi həssas mətnlər/şəkillər ekran görüntülərində bulanıqlaşdırılıb</b>
 <br>
@@ -47,6 +46,10 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proq
   <img src="https://i.imgur.com/zm2PhyH.gif" />
   <img src="https://i.imgur.com/y8Z1XUm.gif" />
 </div>
+
+### Testlər
+
+Ən yüksək test nəticəsində, orta hesabla 6 dəqiqə ərzində 400.000-dən çox mesaj və media ehtiva edən 3.66 GB ZIP faylı daxil edə bildi.
 
 ### İnterfeys Dilləri
 
