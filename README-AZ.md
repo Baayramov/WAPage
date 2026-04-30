@@ -53,7 +53,7 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proq
 
 ### İnterfeys Dilləri
 
-Azərbaycanca, Türkcə, İngiliscə, İspanca, İtalyanca, Almanca, Fransızca, Polyak, Portuqal, Rusça, Ukrayna, Monqol, Hind, Ərəbcə, Çincə, Yaponca, Koreya, Özbək
+Azərbaycanca, Türkcə, İngiliscə, İspanca, İtalyanca, Almanca, Fransızca, Polyak, Portuqal, Rusça, Ukrayna, Monqol, Hind, Ərəbcə, Çincə (Sadələşdirilmiş), Yaponca, Koreya, Özbək
 
 ### Dəstəklənən İxrac Növləri
 
