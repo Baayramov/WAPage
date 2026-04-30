@@ -7,13 +7,13 @@ Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proq
 
 ### 1. Son versiyanı birbaşa bu linkdən yükləyin
 
-<a>https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip</a> <br>
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip</a> <br>
 
 **2. Sağdakı releases panelindən yükləyin**
 
 **3. Windows PowerShell istifadə edərək yükləyin** <br>
 
-<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.1.0/WAPage-v1.1.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.2.0/WAPage-v1.2.0.zip" -OutFile "WAPage-v1.1.0.zip"</code></pre>
 
 ## VirusTotal Analiz Linki
 
