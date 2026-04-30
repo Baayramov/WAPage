@@ -53,7 +53,7 @@ As a result of the highest test, it was able to insert a 3.66 Gb ZIP file with m
 
 ### Interface Languages
 
-`Azerbaijan, Turkish, English, Spanish, Italian, German, French, Polish, Portuguese, Russian, Ukrainian, Mongolian, Hindi, Arabic, Chinese, Japanese, Korean, Uzbek`
+`Azerbaijan, Turkish, English, Spanish, Italian, German, French, Polish, Portuguese, Russian, Ukrainian, Mongolian, Hindi, Arabic, Chinese (Simplified), Japanese, Korean, Uzbek`
 
 ### Supported Export Types
 
