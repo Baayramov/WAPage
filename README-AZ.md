@@ -42,7 +42,7 @@ Proyekt artıq Linux üzərində build edilib işlənə bilir. Linux versiyası 
 - Yer mesajları brauzer vasitəsilə xəritədə koordinatları açır
 - Tamamilə oflayndır — heç bir nöqtədə internet bağlantısı yaradılmır, bütün məlumatlar istifadəçinin öz maşınında qalır
 - Aşağı səviyyəli aparatlarda belə rahat işləmək üçün hazırlanmış aşağı resurs istifadəsi
-- <b>13.000+</b> kod sətirinə qədər yazılıb <br><br>
+- <b>14.000</b> kod sətirinə qədər yazılıb <br><br>
 
 
 <br><br>
