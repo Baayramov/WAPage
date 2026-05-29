@@ -42,7 +42,7 @@ The project can now be built and run on Linux. Since the Linux version is still 
 - Location messages open the coordinates in a map via the browser
 - Fully offline — no internet connection is made at any point, all data remains on the user's own machine
 - Low resource usage, designed to run smoothly even on low-end hardware
-- Written up to <b>13.000+</b> code lines <br><br>
+- Written up to <b>14.000</b> code lines <br><br>
 
 
 <br><br>
