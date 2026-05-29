@@ -1,0 +1,159 @@
+# WAPage
+<img src="https://i.imgur.com/xj1Bt6c.png" align="right" width="120">
+WhatsApp söhbətlər üçün ixrac funksiyası təqdim edir, lakin onları sonradan oxumaq üçün heç bir rəsmi vasitə təklif etmir. Bu tətbiq bu boşluğu doldurmaq üçün yaradılıb. <br> WAPage ixrac edilmiş WhatsApp söhbət fayllarını təhlil edir və onları təmiz vizual interfeysdə göstərir. <br>
+Bu proqramı digər oxuculardan fərqləndirən cəhət, onun C++ ilə .exe proqram formatında işləməsi, brauzerə ehtiyac duymaması və açıq mənbəli olmasıdır.
+
+## Yükləmə (Windows)
+
+### 1. Son versiyanı birbaşa bu linkdən yükləyin
+
+<a>https://github.com/Baayramov/WAPage/releases/download/v1.3.0/WAPage-v1.3.0.zip</a> <br>
+
+**2. Sağdakı releases panelindən yükləyin**
+
+**3. Windows PowerShell istifadə edərək yükləyin** <br>
+
+<pre><code>Invoke-WebRequest -Uri "https://github.com/Baayramov/WAPage/releases/download/v1.3.0/WAPage-v1.3.0.zip" -OutFile "WAPage-v1.3.0.zip"</code></pre>
+
+## VirusTotal Analiz Linki
+
+<a>https://www.virustotal.com/gui/file/846aa55c0b37b18391a4ba9c56dad56fbf514ab651cd99cb5d3d8157896828fc/detection</a>
+
+### Windows SmartScreen Xəbərdarlığı
+
+Proqramı ilk dəfə açdığınız zaman Windows SmartScreen xəbərdarlığı görə bilərsiniz. Bunun səbəbi, proqramın Kod İmza Sertifikatı ilə imzalanmamasıdır. Bu üsul seçilməyib, çünki Kod İmza Sertifikatlar bahadır. Bu, narahatlığa səbəb deyil, çünki mənbə kodu reallığı əks etdirir.
+
+### Linux versiyası artıq buradadır.
+
+Proyekt artıq Linux üzərində build edilib işlənə bilir. Linux versiyası hələ yeni olduğundan bəzi prablemlər ola bilər zamanda düzələcəkdir. Yalnız Appimage formatinda her kampyuterde işləyəcək şəkildə deyil yalnız Qt kitabxanaları yüklü olan kampyuterlərdə işləyə bilir. Appimage düzəltmək çətin oldugundan biraz zaman alacaq. Linux versiyasının necə quraşdırılacağı haqqında aşağıda bölmə var.
+
+### Xüsusiyyətlər
+
+- Həm Android, həm də iOS ixracını dəstəkləyir
+- Məlum tətbiq vizual stilini yaxından əks etdirən interfeys dizaynı
+- İşıq və Qaranlıq mövzu seçimləri
+- 18 dildə mövcud olan interfeys — interfeys dilinin söhbətlərdəki məzmuna heç bir təsiri yoxdur
+- Həm fərdi (təkbətək), həm də qrup söhbətləri üçün dəstək
+- Bu, söhbətdə göndərilən həm sadə, həm də animasiyalı stikerlərə aiddir
+- Göndərilən bütün media fayllarının, səsli mesajların, paylaşılan kontaktların və mətn mesajlarının aşkarlanması və göstərilməsi
+- Söhbətdəki ilk mesaja birbaşa keçmək
+- Söhbətlərin adını dəyişdirmək və xüsusi profil şəkillərini təyin etmək imkanı
+- Söhbətlərin içərisindəki linklər kliklənə bilər və standart brauzerdə açılır
+- Yer mesajları brauzer vasitəsilə xəritədə koordinatları açır
+- Tamamilə oflayndır — heç bir nöqtədə internet bağlantısı yaradılmır, bütün məlumatlar istifadəçinin öz maşınında qalır
+- Aşağı səviyyəli aparatlarda belə rahat işləmək üçün hazırlanmış aşağı resurs istifadəsi
+- <b>13.000+</b> kod sətirinə qədər yazılıb <br><br>
+
+
+<br><br>
+<b>Bəzi həssas mətnlər/şəkillər ekran görüntülərində bulanıqlaşdırılıb</b>
+<br>
+<div align="center">
+  <img src="https://i.imgur.com/Jkbjvb3.jpeg" />
+  <img src="https://i.imgur.com/sO71g5a.jpeg" />
+  <img src="https://i.imgur.com/zm2PhyH.gif" />
+  <img src="https://i.imgur.com/y8Z1XUm.gif" />
+</div>
+
+### Testlər (Windows üzərində)
+
+Ən yüksək test nəticəsində, orta hesabla 6 dəqiqə ərzində 400.000-dən çox mesaj və media ehtiva edən 3.66 GB ZIP faylı daxil edə bildi.
+
+### İnterfeys Dilləri
+
+Azərbaycanca, Türkcə, İngiliscə, İspanca, İtalyanca, Almanca, Fransızca, Polyak, Portuqal, Rusça, Ukrayna, Monqol, Hind, Ərəbcə, Çincə (Sadələşdirilmiş), Yaponca, Koreya, Özbək
+
+### Dəstəklənən İxrac Növləri
+
+| Platforma |  Media ilə   | Yalnız söhbətlər (Media olmadan) |
+|-----------|--------------|----------------------------------|
+|  Android  | Dəstəklənir  |          Dəstəklənir             |
+|  iOS      | Dəstəklənir  |          Dəstəklənir             |
+
+**Vacibdir:** Çat təhlilçisi hazırda yalnız sistem dili ingilis dilinə təyin edilmiş cihazdan edilən ixracları dəstəkləyir. Bu tələb olunur, çünki saat qurşağı məlumatları və sistem tərəfindən yaradılan mesajlar (məsələn, qrupa qoşulma/çıxma tədbirləri, ad dəyişiklikləri və s.) yalnız ingilis ixrac formatında tanınır. Çatların içərisindəki məzmun — mesajlar, adlar və media — məhdudiyyətsiz istənilən dildə ola bilər.
+
+### Dəstəklənən Platformalar
+
+| Platforma                                   |      Status      |
+|---------------------------------------------|------------------|
+| Windows 10 64-bit (versiya 1507 və yuxarısı)|   Dəstəklənir    |
+| Windows 11 64-bit                           |   Dəstəklənir    |
+| Linux (Ubuntu 22.04 LTS və ya Debian 12)    |   Dəstəklənir    |
+| macOS                                       |  Planlaşdırılır  |
+
+### Kompilyasiya Təlimatları (Windows)
+Layihəni mənbə kodundan kompilyasiya etmək üçün, bütün lazımi asılılıqların Qt Online Installer vasitəsilə düzgün quraşdırıldığından əmin olmaq məqsədilə bu addımları izləyin.
+
+**1. Tələb Olunan Qt Komponentlərinin Quraşdırılması**
+
+- Qt Online Installer-i açın. Customize bölməsinə keçin və yuxarı sağ küncdəki Show filtr menyusundan Archive seçiminin aktiv edildiyinə əmin olun.
+- Qt -> Qt 6.7.3 bölməsi altında aşağıdakı modulları seçib quraşdırın:
+  - MSVC 2022 64-bit
+  - Qt 5 Compatibility Module
+  - Qt Shader Tools
+- Qt -> Qt 6.7.3 -> Additional Libraries bölməsi altında seçib quraşdırın:
+  - Qt Image Formats
+  - Qt Multimedia
+- Qt Development -> Build Tools bölməsi altında seçib quraşdırın:
+  - CMake 3.30.5
+  - Ninja 1.12.1
+- Qt Creator bölməsi altında seçib quraşdırın:
+  - Qt Creator 19.0.0 (və ya ən son versiya)
+
+**2. Layihənin Kompilyasiyası**
+
+- Qt Creator-u başladın. Open Project... düyməsinə klikləyin və mənbə kodu qovluğunda yerləşən `CMakeLists.txt` faylını seçin.
+- Kit Selection ekranında mütləq Desktop Qt 6.7.3 MSVC2022 64-bit seçimini edin.
+- Build konfiqurasiyasını Release olaraq təyin etmək tövsiyə olunur. Optimal performans üçün tətbiqin release qovluğunda xüsusi DLL-lərin olması tələb edilir. (Xətaları yoxlamaq məqsədilə Debug da seçə bilərsiniz, lakin bu, proqramın performansında hiss ediləcək dərəcədə azalmalara səbəb olacaq).
+- Configure Project düyməsinə klikləyin və prosesin bitməsini gözləyin.
+- Konfiqurasiya uğurla başa çatdıqdan sonra sol alt küncdəki Build düyməsi (çəkic ikonu) aktiv olacaq. Kompilyasiyanı başlatmaq üçün həmin düyməyə klikləyin.
+- Build prosesi uğurla bitdikdən sonra layihə qovluğunun daxilində yeni `build` qovluğu yaranacaq. Tam kompilyasiya olunmuş icra edilə bilən proqramınızı tapmaq üçün həmin qovluğun içindəki `Desktop_Qt_6_7_3_MSVC2022_64bit-Release` və ya `Desktop_Qt_6_7_3_MSVC2022_64bit-Debug` qovluğuna daxil olun.
+
+### Quraşdırma Təlimatları (Linux)
+
+Layihəni mənbə kodundan kompilyasiya etmək üçün, bütün tələb olunan asılılıqların Qt Onlayn Installer vasitəsilə düzgün quraşdırıldığından əmin olmaq üçün bu addımları diqqətlə izləyin.
+
+**1. Tələb olunan Qt Komponentlərinin Quraşdırılması**
+- Qt Onlayn Installer-i açın. Fərdiləşdir bölməsinə keçin və yuxarı sağ küncdəki Filtr Göstər menyusundan Arxiv seçiminin aktiv olduğundan əmin olun.
+- Qt for Development -> Qt -> Qt 6.7.3 altında aşağıdakı modulları seçin və quraşdırın:
+  - Desktop
+  - Qt 5 Compatibility Module
+  - Qt Shader Tools
+- Qt for Development -> Qt -> Qt 6.7.3 -> Additional Libraries altında seçin və quraşdırın:
+  - Qt Image Formats
+  - Qt Multimedia
+- Qt for Development -> Qt -> Build Tools altında seçin və quraşdırın:
+  - CMake 3.30.5
+  - Ninja 1.12.1
+- Developer Tools -> Qt Creator altında seçin və quraşdırın:
+  - Qt Creator 19.0.0 (və ya ən son versiya)
+
+**2. Layihənin Kompilyasiyası**
+- Qt Creator-u başladın. Open Project... düyməsinə klikləyin və mənbə kodu qovluğunda yerləşən `CMakeLists.txt` faylını seçin.
+- Kit Selection ekranında mütləq Desktop seçimini edin.
+- Build konfiqurasiyasını Release olaraq təyin etmək Optimal performans üçün tövsiyə olunur. (Xətaları yoxlamaq məqsədilə Debug da seçə bilərsiniz, lakin bu, proqramın performansında hiss ediləcək dərəcədə azalmalara səbəb olacaq).
+- Configure Project düyməsinə klikləyin və prosesin bitməsini gözləyin.
+- Konfiqurasiya uğurla başa çatdıqdan sonra sol alt küncdəki Build düyməsi (çəkic ikonu) aktiv olacaq. Kompilyasiyanı başlatmaq üçün həmin düyməyə klikləyin.
+- Build prosesi uğurla bitdikdən sonra layihə qovluğunun daxilində yeni `build` qovluğu yaranacaq. Tam kompilyasiya olunmuş icra edilə bilən proqramınızı tapmaq üçün həmin qovluğun içindəki `Desktop-Release` və ya `Desktop-Debug` qovluğuna daxil olun.
+
+### Gələcək Planlar
+
+- Linux və macOS platforma dəstəyi
+- İngilis dilində olmayan sistem dilləri olan cihazlardan ixrac edilən söhbətlər üçün dəstək
+- Əlavə dil və format dəstəyi
+
+### Dəstək
+
+Əgər bu layihəni faydalı hesab edirsinizsə və mənə dəstək olmaq istəyirsinizsə:
+
+<a href="https://www.paypal.com/ncp/payment/AZ26AYEFY35D4">
+  <img src="https://i.imgur.com/1iuuok4.png" width="120">
+</a>
+
+---
+
+Bu proqram təminatı xüsusi mülkiyyət lisenziyası altında lisenziyalaşdırılıb. Ətraflı məlumat üçün LICENSE faylına baxın. <br>
+Qt 6.7.3 — LGPL v3 — <a>https://www.qt.io/licensing/open-source-lgpl-obligations</a> <br>
+NotoColorEmoji şrifti (OFL 1.1) — <a>https://fonts.google.com/noto</a> <br>
+
+*Bu layihə WhatsApp-ın söhbət ixracı xüsusiyyəti təklif etməsinə baxmayaraq, ixrac edilmiş faylları rəsmi olaraq oxumaq üçün heç bir vasitə təqdim etməməsi səbəbindən mövcuddur. Bu tətbiq məhz bunu edir.*
