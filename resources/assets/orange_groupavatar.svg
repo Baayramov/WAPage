@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24">
+  <defs>
+    <mask id="smooth-arc-mask">
+      <rect x="0" y="0" width="24" height="24" fill="white" />
+      <ellipse cx="9" cy="12" rx="4" ry="16" fill="black" />
+    </mask>
+  </defs>
+
+  <circle cx="12" cy="12" r="12" fill="#FD610C"/>
+  
+  <g transform="scale(0.74) translate(9.5, 4.2)" fill="white" mask="url(#smooth-arc-mask)">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z"/>
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z"/>
+  </g>
+
+  <g transform="scale(0.8) translate(-0.5, 3)" fill="white">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z"/>
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z"/>
+  </g>
+</svg>
